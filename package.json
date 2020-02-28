@@ -4,7 +4,8 @@
   "description": "Pluralsight Course",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "npm start",
+    "start": "webpack"
   },
   "repository": {
     "type": "git",
